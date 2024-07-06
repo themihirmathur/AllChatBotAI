@@ -93,69 +93,69 @@ To integrate AllChatBotAI with your website, follow these steps:
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-## Features
+## 21 Unique Features
 
-### Automated AI Sales Representative 🧑‍💼💻
+### 1. Automated AI Sales Representative 🧑‍💼💻
 AllChatBotAI features an intelligent AI chatbot that can handle customer queries, provide information, and guide users through the sales process, effectively acting as a virtual sales representative.
 
-### Appointment Booking and Payment Processing 📅💳
+### 2. Appointment Booking and Payment Processing 📅💳
 The platform is equipped with an advanced appointment booking system that can schedule meetings and process payments seamlessly, enhancing the customer experience and streamlining operations.
 
-### Easy Integration 🔗
+### 3. Easy Integration 🔗
 Integrate AllChatBotAI with any website using a simple code snippet, making it accessible and user-friendly for businesses of all sizes.
 
-### Smart Question Linking ❓🔗
+### 4. Smart Question Linking ❓🔗
 The chatbot connects related queries to provide comprehensive and accurate answers, ensuring that customers receive relevant information without needing to ask multiple questions.
 
-### Real-time Chat ⏰💬
+### 5. Real-time Chat ⏰💬
 Supports both manual and automated real-time chat functionalities, allowing businesses to interact with customers instantly and efficiently.
 
-### White-labeling Options 🏷️
+### 6. White-labeling Options 🏷️
 Offers white-labeling options, enabling businesses to customize the chatbot interface with their branding and maintain a consistent brand identity.
 
-### Customizable Interface 🎨
+### 7. Customizable Interface 🎨
 A fully customizable chatbot interface allows businesses to tailor the look and feel of the chatbot to match their brand and provide a personalized user experience.
 
-### Calendar Widget 📅
+### 8. Calendar Widget 📅
 The built-in calendar widget simplifies appointment scheduling, allowing customers to book appointments directly through the chatbot.
 
-### Stripe Integration 💳
+### 9. Stripe Integration 💳
 Seamlessly integrates with Stripe for secure payment processing, ensuring that transactions are handled safely and efficiently.
 
-### Email Marketing 📩
+### 10. Email Marketing 📩
 Simple and effective email marketing features allow businesses to engage with their customers through targeted email campaigns.
 
-### Financial Dashboard 📊
+### 11. Financial Dashboard 📊
 Displays key financial metrics and sales data on a user-friendly dashboard, providing businesses with valuable insights into their performance.
 
-### Lead Management 👥
+### 12. Lead Management 👥
 Saves visitor information as leads, enabling businesses to follow up with potential customers and convert them into paying clients.
 
-### Secure Authentication 🔐
+### 13. Secure Authentication 🔐
 Custom login and signup processes with OTP for enhanced security, ensuring that user data is protected at all times.
 
-### File/Image Uploads 📂
+### 14. File/Image Uploads 📂
 Securely handles file and image uploads, allowing customers to share necessary documents and images directly through the chatbot.
 
-### SEO Optimized Blogging 📝
+### 15. SEO Optimized Blogging 📝
 Integrated blog with SEO optimization to improve visibility and attract more visitors to the website.
 
-### Improved Architecture 🏗️
+### 16. Improved Architecture 🏗️
 Enhanced system architecture ensures better performance and scalability, allowing the platform to handle increased traffic and data efficiently.
 
-### Minimal UI ✅
+### 17. Minimal UI ✅
 A stunning, minimalistic user interface provides a sleek and modern user experience.
 
-### FAQ Section ❓
+### 18. FAQ Section ❓
 The comprehensive FAQ section addresses common queries, helping customers find the information they need quickly and easily.
 
-### Light/Dark Mode 🌗
+### 19. Light/Dark Mode 🌗
 Toggle between light and dark modes to provide a better user experience and accommodate different user preferences.
 
-### Feature Control Settings ⚙️
+### 20. Feature Control Settings ⚙️
 Allows businesses to control feature availability based on subscription plans, ensuring that customers only access the features they have paid for.
 
-### Plan-Based Restrictions ⚠️
+### 21. Plan-Based Restrictions ⚠️
 Restricts features based on the selected subscription plan, offering flexibility and customization to meet different business needs.
 
 <p align="left">
