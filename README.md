@@ -27,7 +27,7 @@
 
 To get started with AllChatBotAI, follow these steps:
 
-1. **Clone the Repository**: `git clone https://github.com/yourusername/allchatbotai`
+1. **Clone the Repository**: `git clone https://github.com/themihirmathur/AllChatBotAI.git`
 2. **Install Dependencies**: `npm install`
 3. **Set Up Environment Variables**: Create a `.env` file and add your API keys and configuration settings.
 4. **Run the Development Server**: `npm run dev`
@@ -37,11 +37,11 @@ To get started with AllChatBotAI, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/allchatbotai
+   git clone https://github.com/themihirmathur/AllChatBotAI.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
-   cd allchatbotai
+   cd AllChatBotAI
    ```
 3. **Install Dependencies**:
    ```bash
@@ -171,7 +171,7 @@ We welcome contributions from the community. To contribute, please follow these 
 
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/yourusername/allchatbotai
+   git clone https://github.com/themihirmathur/AllChatBotAI.git
    ```
 
 3. **Create a New Branch**:
